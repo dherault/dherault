@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm David</h1>
-<h3 align="center">Coding is my hobby (and my job!)</h3>
+<h3 align="center">I ❤️ Open source, coding is my job and hobby!</h3>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dherault&show_icons=true&locale=en" alt="dherault" /></p>
 
