@@ -7,5 +7,5 @@
 <h3 align="left">What I'm working on nowadays:</h3>
 <ul>
   <li><a href="https://plural.sh" target="_blank" rel="noreferrer">Plural</a>: One-click kubernetes deploy for 50+ apps</li>
-  <li><a href="https://github.com/dherault/ecu" target="_blank" rel="noreferrer">Ecu</a>: A Figma alternative for React developers</li>
+  <li><a href="https://github.com/hero-engineer/hero-engineer" target="_blank" rel="noreferrer">Hero Engineer</a>: A Figma/Webflow alternative for React developers</li>
 </ul>
