@@ -7,5 +7,5 @@
 <h3 align="left">What I'm working on nowadays:</h3>
 <ul>
   <li><a href="https://plural.sh" target="_blank" rel="noreferrer">Plural</a>: One-click kubernetes deploy for 50+ apps</li>
-  <li><a href="https://herobusinessplan.com" target="_blank" rel="noreferrer">Hero Business Plan</a>:Easy startup business plan writting software</li>
+  <li><a href="https://herobusinessplan.com" target="_blank" rel="noreferrer">Hero Business Plan</a>: Easy startup business plan writting software</li>
 </ul>
