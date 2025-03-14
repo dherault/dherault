@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm David</h1>
-<h3 align="center">I ❤️ Open source, coding is my job and hobby!</h3>
+<h3 align="center">I ❤️ open source, coding is my job and hobby!</h3>
 <br />
 <p align="left"> 
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
